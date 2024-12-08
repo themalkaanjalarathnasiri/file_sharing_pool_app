@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92222260692",
+    "project_id": "pool-share-817de",
+    "storage_bucket": "pool-share-817de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92222260692:android:bc2d296fe314ef9ec14241",
+        "android_client_info": {
+          "package_name": "com.sharepool.share_pool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9qifsOLbxV0Ncoosc_WgGfbSSIk0i67s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
